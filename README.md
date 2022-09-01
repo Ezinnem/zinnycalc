@@ -8,7 +8,7 @@ This project is a Calculator project and was bootstrapped with Create React App.
 
 In the project directory, you can cd into the Calc/ folder and then run:
 
-### `npm start`
+#### `npm start`
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
