@@ -1,6 +1,6 @@
-# calc
+# Calculator
 
-# Description:
+3# Description:
 
 This project is a Calculator project and was bootstrapped with Create React App.
 
