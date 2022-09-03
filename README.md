@@ -1,4 +1,4 @@
-# Calculator
+# zinnyCalc
 
 ![calc-demo](https://user-images.githubusercontent.com/54344301/188273753-a9ddb77d-5e2b-421d-a5d4-00b5c3b76413.gif)
 
